@@ -86,7 +86,6 @@ body{
   display:flex;
   flex-direction: row;
   box-sizing: border-box;
-  border:solid;
   justify-content:center;
 }
 .area2_heading_left{
@@ -106,6 +105,8 @@ body{
   background-size:cover;
   display:flex;
   flex-direction: row;
+  box-sizing: border-box;
+  justify-content:center;
   /* position:relative; */
 }
 .area3_heading_left{
@@ -126,6 +127,8 @@ body{
   background-size:cover;
   display:flex;
   flex-direction: row;
+  box-sizing: border-box;
+  justify-content:center;
   /* position:relative; */
 }
 .area4_heading_img_left{
@@ -144,6 +147,8 @@ body{
   background-size:cover;
   display:flex;
   flex-direction: row;
+  box-sizing: border-box;
+  justify-content:center;
   /* position:relative; */
 }
 .area5_heading_img1{
