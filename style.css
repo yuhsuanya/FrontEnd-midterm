@@ -7,13 +7,12 @@
 .my-nav{
   position:fixed; 
   z-index: 1;
-  width:65vw;
+  width:68vw;
   padding-top:80px;
   /* padding-left:600px;   */
   padding-bottom:16px;
   margin-bottom:20px;
   box-sizing: border-box; 
-  border:solid;
 }
 .heading{
   color: #5B724B;
