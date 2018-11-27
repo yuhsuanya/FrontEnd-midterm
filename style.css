@@ -60,6 +60,7 @@
   padding-top: 300px;
   text-align: center;
   font-size: 16px;
+  font-family:Arial, Helvetica, sans-serif;
 }
 .area3 {
   height: 100vh;
@@ -79,6 +80,7 @@
   height: 100vh;
   padding-top: 300px;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .area5 {
   height: 100vh;
@@ -91,7 +93,7 @@
   width:100vw;
   height:12vh;
   background-color: #444f3d ;
-  font-size: 16px;
+  font-size: 15px;
   font-family: 'Lato', sans-serif;
   color:#fff;
   justify-content:end;
