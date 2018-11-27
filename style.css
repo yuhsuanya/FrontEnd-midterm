@@ -7,7 +7,7 @@
 .my-nav{
   position:fixed; 
   z-index: 1;
-  width:68vw;
+  width:65vw;
   padding-top:80px;
   /* padding-left:600px;   */
   padding-bottom:16px;
@@ -93,7 +93,7 @@
   width:100vw;
   height:12vh;
   background-color: #444f3d ;
-  font-size: 1px;
+  font-size: 14px;
   font-family: 'Lato', sans-serif;
   color:#fff;
   justify-content:end;
